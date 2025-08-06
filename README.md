@@ -17,10 +17,12 @@ WAN Link: 10.0.0.0/30 (R1-R2)
   show crypto ipsec sa
 ## Issues
 Host device is not reachable
+
 some cisco routers does not support IPsec
 
 ## How to fix this
 ip addresses are assigned to the end devices
+
 Add the cisco c7200 Router for a network
 
 Prepared by: Lakmal  
